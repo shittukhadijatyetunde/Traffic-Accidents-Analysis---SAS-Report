@@ -1,6 +1,6 @@
 
 
-# Traffic Accidents Analysis - SAS Report
+# Traffic Accidents Analysis in Netherlands - SAS Report
 
 ## Project Overview
 This repository contains SAS-based data exploration reports on traffic accidents across multiple provinces, identifying potential offenders and accident trends. The analysis was conducted using SAS Visual Analytics and includes various visualizations to understand accident patterns, causes, and mitigation strategies.
@@ -21,12 +21,14 @@ The dataset was sourced from SAS Visual Analytics and covers traffic accident re
 - Accidents peaked at **5:00 PM**, with intoxicated driving incidents more frequent at **2:00 AM, 7:00 PM, and 11:00 PM**.
 
 ## How to Reproduce the Report
-1. Ensure you have **SAS Visual Analytics 8.5.1** installed.
-2. Load the dataset into SAS.
-3. Run the scripts in `/sas_scripts/` to generate visualizations.
-4. Export the final report from SAS Visual Analytics.
+The case study has been developed using the ONGEVALLEN2016_EN dataset available on SAS®
+Viya for Learners.
 
+The path to the dataset location is as follows: Cas-v4e065-default > USECASES >
+ONGEVALLEN2016_EN
+
+You can also search for ONGEVALLEN2016_EN inside SAS Viya
 ## Author
-- **Name:** K.Y. Shittu
+- **Name:** Khadijat Shittu
 - **Email:** k.y.shittu@wlv.ac.uk
 - **Affiliation:** University of Wolverhampton
