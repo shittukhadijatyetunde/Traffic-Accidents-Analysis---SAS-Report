@@ -27,6 +27,14 @@ Viya for Learners.
 The path to the dataset location is as follows: Cas-v4e065-default > USECASES >
 ONGEVALLEN2016_EN
 
+Install SAS Visual Analytics 8.5.1.
+
+Load the dataset into SAS.
+
+Run the scripts in /sas_scripts/ to generate visualizations.
+
+Export the final report from SAS Visual Analytics.
+
 You can also search for ONGEVALLEN2016_EN inside SAS Viya
 ## Author
 - **Name:** Khadijat Shittu
